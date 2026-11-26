@@ -1,0 +1,1 @@
+Developed an end-to-end web automation framework using Selenium WebDriver, Python, PyTest, and Page Object Model (POM). Automated functional and regression testing covering browser interactions, workflows, field validations, and positive, negative, and edge-case scenarios.
